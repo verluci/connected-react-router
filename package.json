@@ -1,6 +1,6 @@
 {
   "name": "@maxedy/connected-react-router",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "A Redux binding for React Router v4 and v5",
   "main": "lib/index.js",
   "module": "esm/index.js",
